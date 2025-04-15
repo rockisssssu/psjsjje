@@ -934,7 +934,7 @@ local function redo2()
 
 
 
-	Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nitro-GT/OxideReanim/main/library"))()
+	Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nitro-GT/Oxide/refs/heads/main/LoadstringPerma"))() task.wait(1) -- we give it time to load properly 
 
 	local HatMode=hmode
 
